@@ -1,0 +1,6 @@
+guide = "Guide"
+send_archive = "___"
+archive_added_to_queue = "archive added to queue"
+processing_started = "processing started"
+archive_checked = "checked"
+bad_archive = "bad archive"
